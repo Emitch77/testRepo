@@ -1,5 +1,0 @@
-# This is a new test script.
-
-a <- rnorm(100)
-a
-plot(a)
